@@ -1,1 +1,1 @@
-
+Smart Wearable Devices for Safety is a research project focused on the development and application of wearable technologies to enhance personal safety. The study explores how smart wearable devices can use sensors, real-time monitoring, wireless communication, and intelligent systems to detect potential risks and provide timely alerts. The project highlights the role of wearable technology in improving safety, emergency response, and user protection across various environments.
